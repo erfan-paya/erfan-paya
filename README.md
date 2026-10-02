@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Erfan 👋
 
-<!--
-**erfan-paya/erfan-paya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Support Engineer with 2+ years of software development experience.
 
-Here are some ideas to get you started:
+I've worked with VPS setup, application deployments, and CI/CD pipelines, giving me a practical understanding of how applications run in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- Linux administration
+- Networking fundamentals (DNS, TCP/IP, HTTP/HTTPS)
+- Cloud computing
+
+## Background
+Next.js · NestJS · TypeScript · PostgreSQL · Docker · GitHub Actions
+
+## Open to
+Cloud Support Technician and Junior Cloud Support roles.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/erfan-paya/
+- Email: mr.erfanpaya@gmail.com
